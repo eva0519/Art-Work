@@ -1,0 +1,133 @@
+파일 작업 관련 단축키
+[ Ctrl + N ] : 새 캔버스 만들기
+[ Ctrl + O ] : 파일 불러오기 ( or 회색 바탕 화면 더블클릭)
+[ Shift + 작업 창 닫기 버튼 ] : 열려있는 모든 작업 창 닫기 
+[ Alt + Ctrl + O ] : Adobe Bridge 실행하기
+[ Ctrl + W ] : 현재 캔버스 닫기
+[ Alt + Ctrl + W ] : 모든 캔버스 닫기
+[ Ctrl + S ] : 현재 파일 저장하기
+[ Shift + Ctrl + S ] : 다른 이름으로 저장하기
+[ Alt + Shift + Ctrl + S ] : 웹용 이미지로 저장하기
+[ F12 ] : 처음 상태로 되돌리기
+[ Ctrl + P ] : 인쇄하기
+[ Ctrl + Q ] : 포토샵 프로그램 종료하기
+[ Ctrl + K ] : 포토샵 (Preterences) 대화상자 열기
+
+브러시 관련 단축 키
+[ Ctrl + Z ] : 바로 직전에 실행한 작업 취소하기
+[ Ctrl + Alt + Z ] : 작업 여러 번 취소하기
+[ , ] : 브러시 목록에서 이전 브러시 선택하기
+[ . ] : 브러시 목록에서 다음 브러시 선택하기
+[ [/] ] : 브러시 크기 점점 크게 / 점점 작게
+[ Shift + [/] ] : 브러시 hardness 값 강하게 / 약하게
+[ CapsLock ] : 브러시 커서 십자 모양(+) / 미리보기 라인 활성화 
+[ Alt ] : 스포이드 도구로 전환
+[ D/X ] : 기본색상/전경색과 배경색 위치 전환 ( D누르면 전경색이 검정 배경색이 흰색, X누르면 반대)
+[ Alt + Delete ] : 전경색 채우기
+[ Ctrl + Delete ] : 배경색 채우기
+[ Alt + Shift + Delete ] : 투명 영역을 보호한 채 전경색 채우기
+[ Shift + Ctrl + Delete ] : 투명 영역을 보호한 채 배경색 채우기
+[ Shift + F5 ] : [Fill]대화상자 열기  
+[ X ] : 전경색/배경색 전환하기
+
+도구 사용 단축키
+[ Alt + 도구 선택 ] : 숨어 있는 도구 선택하기
+[ Eyedropper Tool 사용시 Alt를 누른 채 클릭 ] : 배경색으로 지정
+[ Spacebar ] : 임시로 Hand Tool 사용하기
+[ Ctrl임시로 Move Tool 사용하기
+[ Ctrl + Spacebar ] : 임시로 Zoom Tool(+) 사용하기
+[ Alt + Spacebar ] : 임시로 Zoom Tool(-) 사용하기
+
+선택 영역 관련 단축키
+[ Ctrl + A ] : 이미지 전체 영역을 선택하기
+[ Ctrl + Shift + D ] : 마지막으로 지정하였던 선택 영역 다시 선택하기
+[ Shift + 드래그 ] : 정 비율로 선택하기
+
+선택 영역이 지정된 상태에서 사용하는 단축키
+[ Ctrl + D ] : 지정된 선택 영역 해제하기
+[ Shift + 드래그 ] : 선택 영역에서 추가로 더 선택하기
+[ Alt + 드래그 ] : 선택한 영역의 일부분 빼기
+[ Ctrl + Shift + I ] : 선택 영역 반전시키키
+[ Ctrl + T ] : 선택 영역의 이미지 변경하기
+[ Ctrl + Shift + T ] : 최근 적용항 Free Transform 재실행
+[ Ctrl + 드래그 ] : (변형 조절점 위에서 실행) 이미지를 자유롭게 외곡
+[ Ctrl + Shift + 드래그 ] : (변형 조절점 위에서 실행) 이미지를 자유롭게 기울이기 
+[ Ctrl + Shift + 드래그 + Alt ] : (변형 조절점 위에서 실행) 이미지에 원근감을 줌
+[ Ctrl + C ] : 선택영역의 이미지 복사하기
+[ Ctrl + X ] : 선택 영역의 이미지 오려내기
+[ Ctrl + Alt + 드래그 ] : 선택 영역의 이미지 복사하여 이동하기
+[ Ctrl + 드래그 ] : 선택 영역의 이미지 오려서 이동하기
+[ Alt + Delete ] : 선택 영역에 전경색 채우기
+[ Ctrl + Delete ] : 선택 영역에 배경색 채우기
+[ Alt + Shift + Delete ] : 투명 영역을 보호하면서 전경색 채우기
+[ Alt + I + P ] : 선택 영역의 이미지만 남기고 자르기
+[ Ctrl + 방향키 ] : 선택 영역의 이미지를 오려서 픽셀 단위로 이동하기
+[ Shift + 방향키 ] : 선택 영역의 위치를 10픽셀 단위로 이동하기
+[ Shift + Ctrl + 방향키 ] : 선택 영역의 이미지를 오려서 10픽셀 단위로 이동하기
+[ Ctrl + J ] : 선택 영역의 이미지를 복사하여 새 레이어로 만들기
+[ Ctrl + Shift + J ] : 선택 영역의 이미지를 잘라서 새 레이어로 만들기
+
+화면 조작 관련 단축키
+[ Tab ] : Tool 패널, 패널 감추기/나타내기
+[ Shift + Tab ] : 패널만 감추기/나타내기
+[ Ctrl + + ] : 화면 확대하여 보기
+[ Ctrl + - ] : 화면 축소하여 보기
+[ Home / End 버튼 ] : 화면의 상단 왼쪽 보기 / 하단 오른쪽 보기
+[ Ctrl + R ] : 눈금자 나타내기/감추기
+[ Ctrl + ; ] : 안내선 나타내기/감추기
+[ Ctrl + Alt + ; ] : 안내선 잠그기
+[ Shift + Ctrl + ; ] : 스냅 선택/해제하기
+[ Ctrl + ' ] : 그리드 나타내기/감추기
+[ Ctrl + H ] : 표시자 보이기/감추기
+[ Ctrl + Shift + H ] : 패스 선 보이기/감추기
+[ F ] : 윈도우 모드 변경하기
+
+레이어 작업 관련 단축키
+[ Ctrl + Shift + N ] : 새 레이어 만들기
+[ Ctrl + E ] : 아래 레이어와 합치기 (Ctrl 누른채 합칠 레이어를 선택 후 E를누르면 1개의 레이어로 병합)
+[ Shift  +  Ctrl  + E  ] : 눈에 보이는 모든레이어 병합
+[ Alt  + Shift + Ctrl + E  ] : 눈에 보이는 모든 레이어를 병합하여 새 레이어로 생성
+[ Ctrl + G ] : 선택한 레이어를 그룹에 넣기
+[ Ctrl + Shift + G ] : 그룹 해제하기
+[ Ctrl + ]  ] : 선택한 레이어 한 단께 위로 이동
+[ Ctrl + [  ] : 선택한 레이어 한단계 아래로 이동
+[ Shift + Ctrl + ] ] : 선택한 레이어 맨 위로 이동
+[ Shift + Ctrl + [ ] : 선택한 레이어 맨 아래로 이동
+[ Alt + 마우스 오른쪽 ] : 레이어 팔레트에서 해당 레이어 선택(작업창의 레이어 이미지 위에서)
+[ Ctrl  + 새 레이어 만들기 아이콘'] : 선택된 레이어 아래 새 레이어 만들기
+[ Alt + 레이어 구분선 클릭] :클리핑 마스크 적용/해제
+
+이미지 보정 관련 단축키
+[ Ctrl + L ] : Levels 대화상자 불러오기
+[ Ctrl + Shift + L ] : Auto Levels 적용하기
+[ Ctrl + Alt + Shift + L ] : Auto Contrast 적용하기
+[ Shift + Ctrl + B ] : Auto Colors 적용하기
+[ Ctrl + M ] : Curves 대화상자 불러오기
+[ Ctrl + B ] : Color Balance 대화상자 불러오기
+[ Ctrl + U ] : Hue/Saturation 대화상자 불러오기
+[ Ctrl + Shift + U ] : Desaturate 적용하기
+[ Ctrl + I ] : 이미지 반전
+[ Alt + Ctrl + I ] : image size 대화상자 열기
+[ Alt + Ctrl + C ] : Canvas size 대화상자 열기
+[ Shift + Ctrl + F ] : 최근 작업에 Fade 효과를 적용
+[ Ctrl + F + I ] : 이미지의 색상을 반전하기
+[ Ctrl + F ] : 마지막에 적용한 필터 반복 적용하기
+[ 대화상자에서 Alt ] : Cancel 버튼이 Reset버튼으로 변경되어 초기화 가능
+
+패스 관련 단축키 모음
+[ Alt + 앵커 포인트 ] : 방향선 제거
+[ Shift + 클릭 ] : 45 도, 수평, 수직 형태로 그려집
+[ Crtl + 앵커 포인트, 드래그 ] : 패스 선택 시 직접 선택 도구로 전환되어 방향선 및 위치 변경 가능
+[ 팬 도구 사용 중  Alt ] : 포인트 변환 도구로 전환
+[ 앵커 포인트 추가 도구 사용 중 Alt ] : 앵커 포인트 제거 도구로 전환 
+[ Shift + Ctrl + H ] : 패스 선 보이기 / 감추기
+[ Delete ] : 패스 삭제
+[ Ctrl + Enter ] : 패스 선을 선택 영역으로 활성화
+  
+
+패널 관련 단축키
+[ F5 ] : BRUSHES 패널 열기/닫기
+[ F6 ] : COLORS 패널 열기/닫기
+[ F7 ] : LAYERS 패널 열기/닫기
+[ F8 ] : INFO 패널 열기/닫기
+[ F9 ] : ACTION 패널 열기/닫기
